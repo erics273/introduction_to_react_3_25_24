@@ -1,0 +1,2 @@
+# Introduction to React
+This repo is meant to represent the curriculum to be delivered for a introduction to react training class. The course will be 3 days and also include a high level review of JavaScript.
